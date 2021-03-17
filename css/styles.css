@@ -274,10 +274,6 @@ header {
 
   margin-bottom: 30px;
 }
-.feature-list-logo-svg:focus,
-.feature-list-logo-svg:hover {
-  fill: var(--accent-color);
-}
 
 .features {
   padding-top: 94px;
